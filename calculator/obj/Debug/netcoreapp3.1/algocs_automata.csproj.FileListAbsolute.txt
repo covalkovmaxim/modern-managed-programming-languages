@@ -1,0 +1,13 @@
+C:\Users\Maxim\Desktop\C#\calculator\bin\Debug\netcoreapp3.1\algocs_automata.exe
+C:\Users\Maxim\Desktop\C#\calculator\bin\Debug\netcoreapp3.1\algocs_automata.deps.json
+C:\Users\Maxim\Desktop\C#\calculator\bin\Debug\netcoreapp3.1\algocs_automata.runtimeconfig.json
+C:\Users\Maxim\Desktop\C#\calculator\bin\Debug\netcoreapp3.1\algocs_automata.runtimeconfig.dev.json
+C:\Users\Maxim\Desktop\C#\calculator\bin\Debug\netcoreapp3.1\algocs_automata.dll
+C:\Users\Maxim\Desktop\C#\calculator\bin\Debug\netcoreapp3.1\algocs_automata.pdb
+C:\Users\Maxim\Desktop\C#\calculator\obj\Debug\netcoreapp3.1\algocs_automata.csprojAssemblyReference.cache
+C:\Users\Maxim\Desktop\C#\calculator\obj\Debug\netcoreapp3.1\algocs_automata.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\C#\calculator\obj\Debug\netcoreapp3.1\algocs_automata.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\C#\calculator\obj\Debug\netcoreapp3.1\algocs_automata.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\C#\calculator\obj\Debug\netcoreapp3.1\algocs_automata.dll
+C:\Users\Maxim\Desktop\C#\calculator\obj\Debug\netcoreapp3.1\algocs_automata.pdb
+C:\Users\Maxim\Desktop\C#\calculator\obj\Debug\netcoreapp3.1\algocs_automata.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Maxim\Desktop\C#\trades\bin\Debug\netcoreapp3.1\trades.exe
+C:\Users\Maxim\Desktop\C#\trades\bin\Debug\netcoreapp3.1\trades.deps.json
+C:\Users\Maxim\Desktop\C#\trades\bin\Debug\netcoreapp3.1\trades.runtimeconfig.json
+C:\Users\Maxim\Desktop\C#\trades\bin\Debug\netcoreapp3.1\trades.runtimeconfig.dev.json
+C:\Users\Maxim\Desktop\C#\trades\bin\Debug\netcoreapp3.1\trades.dll
+C:\Users\Maxim\Desktop\C#\trades\bin\Debug\netcoreapp3.1\trades.pdb
+C:\Users\Maxim\Desktop\C#\trades\obj\Debug\netcoreapp3.1\trades.csprojAssemblyReference.cache
+C:\Users\Maxim\Desktop\C#\trades\obj\Debug\netcoreapp3.1\trades.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\C#\trades\obj\Debug\netcoreapp3.1\trades.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\C#\trades\obj\Debug\netcoreapp3.1\trades.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\C#\trades\obj\Debug\netcoreapp3.1\trades.dll
+C:\Users\Maxim\Desktop\C#\trades\obj\Debug\netcoreapp3.1\trades.pdb
+C:\Users\Maxim\Desktop\C#\trades\obj\Debug\netcoreapp3.1\trades.genruntimeconfig.cache

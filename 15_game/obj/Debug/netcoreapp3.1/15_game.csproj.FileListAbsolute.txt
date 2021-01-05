@@ -1,0 +1,13 @@
+C:\Users\Maxim\Desktop\C#\15_game\bin\Debug\netcoreapp3.1\15_game.exe
+C:\Users\Maxim\Desktop\C#\15_game\bin\Debug\netcoreapp3.1\15_game.deps.json
+C:\Users\Maxim\Desktop\C#\15_game\bin\Debug\netcoreapp3.1\15_game.runtimeconfig.json
+C:\Users\Maxim\Desktop\C#\15_game\bin\Debug\netcoreapp3.1\15_game.runtimeconfig.dev.json
+C:\Users\Maxim\Desktop\C#\15_game\bin\Debug\netcoreapp3.1\15_game.dll
+C:\Users\Maxim\Desktop\C#\15_game\bin\Debug\netcoreapp3.1\15_game.pdb
+C:\Users\Maxim\Desktop\C#\15_game\obj\Debug\netcoreapp3.1\15_game.csprojAssemblyReference.cache
+C:\Users\Maxim\Desktop\C#\15_game\obj\Debug\netcoreapp3.1\15_game.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\C#\15_game\obj\Debug\netcoreapp3.1\15_game.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\C#\15_game\obj\Debug\netcoreapp3.1\15_game.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\C#\15_game\obj\Debug\netcoreapp3.1\15_game.dll
+C:\Users\Maxim\Desktop\C#\15_game\obj\Debug\netcoreapp3.1\15_game.pdb
+C:\Users\Maxim\Desktop\C#\15_game\obj\Debug\netcoreapp3.1\15_game.genruntimeconfig.cache
