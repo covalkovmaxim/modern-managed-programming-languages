@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Globalization;
 
 namespace _15_game
 {
@@ -10,17 +11,26 @@ namespace _15_game
     {
         static void Main(string[] args)
         {
-            Board board = new Board(4);
-            board.RandomMix(1000);
+            DateTime StartTime, EndTime;
+            NumberFormatInfo provider = new NumberFormatInfo();
+            provider.NumberDecimalSeparator = ".";
+            provider.NumberGroupSeparator = ",";
+            int BoardSize = args.Length > 0 ? Convert.ToInt32(args[0]) : 4;
+            int StepNumber = args.Length > 1 ? Convert.ToInt32(args[1]) : 1000000;
+            double Coef1 = args.Length > 2 ? Convert.ToDouble(args[2], provider) : 10;
+            double Coef2 = args.Length > 3 ? Convert.ToDouble(args[3], provider) : 1;
+            Board board = new Board(BoardSize);
+            board.RandomMix(StepNumber);
             board.Print();
-            Board start = new Board(4);
-            BinaryHeap Heap = new BinaryHeap(4, 10.0, 1.0);
+            Board start = new Board(BoardSize);
+            BinaryHeap Heap = new BinaryHeap(BoardSize, Coef1, Coef2);
             Heap.Insert(board); 
             Board ans;
             HashSet<string> BlackVertices = new HashSet<string>();
             Stack<Board> way = new Stack<Board>();
             BlackVertices.Add(board.ToString());
-             
+            
+            StartTime = DateTime.Now;
             while(true)
             {
                 Board cur = Heap.ExtractMin();
@@ -76,6 +86,7 @@ namespace _15_game
                     }
                 }
             }
+            EndTime = DateTime.Now;
             //ans.Print();
             int num = ans.GenNum;
             for(int i = 0; i < num; i++)
@@ -89,6 +100,7 @@ namespace _15_game
                 ans.Print();
             }
             Console.WriteLine($"\nBlackVertices.Size = {BlackVertices.Count}");
+            Console.WriteLine($"WorkTime: {(EndTime-StartTime).TotalMilliseconds} ms");
         }
     }
 }

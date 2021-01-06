@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maxim\\Desktop\\C#\\15_game\\15_game.csproj",
+      "projectUniqueName": "C:\\Users\\Maxim\\Desktop\\MMPL\\15_game\\15_game.csproj",
       "projectName": "15_game",
-      "projectPath": "C:\\Users\\Maxim\\Desktop\\C#\\15_game\\15_game.csproj",
+      "projectPath": "C:\\Users\\Maxim\\Desktop\\MMPL\\15_game\\15_game.csproj",
       "packagesPath": "C:\\Users\\Maxim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maxim\\Desktop\\C#\\15_game\\obj\\",
+      "outputPath": "C:\\Users\\Maxim\\Desktop\\MMPL\\15_game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Maxim\\AppData\\Roaming\\NuGet\\NuGet.Config"
