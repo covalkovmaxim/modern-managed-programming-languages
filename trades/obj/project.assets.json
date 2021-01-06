@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maxim\\Desktop\\C#\\trades\\trades.csproj",
+      "projectUniqueName": "C:\\Users\\Maxim\\Desktop\\MMPL\\trades\\trades.csproj",
       "projectName": "trades",
-      "projectPath": "C:\\Users\\Maxim\\Desktop\\C#\\trades\\trades.csproj",
+      "projectPath": "C:\\Users\\Maxim\\Desktop\\MMPL\\trades\\trades.csproj",
       "packagesPath": "C:\\Users\\Maxim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maxim\\Desktop\\C#\\trades\\obj\\",
+      "outputPath": "C:\\Users\\Maxim\\Desktop\\MMPL\\trades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Maxim\\AppData\\Roaming\\NuGet\\NuGet.Config"
