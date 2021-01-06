@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maxim\\Desktop\\C#\\calculator\\algocs_automata.csproj": {}
+    "C:\\Users\\Maxim\\Desktop\\MMPL\\calculator\\algocs_automata.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maxim\\Desktop\\C#\\calculator\\algocs_automata.csproj": {
+    "C:\\Users\\Maxim\\Desktop\\MMPL\\calculator\\algocs_automata.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maxim\\Desktop\\C#\\calculator\\algocs_automata.csproj",
+        "projectUniqueName": "C:\\Users\\Maxim\\Desktop\\MMPL\\calculator\\algocs_automata.csproj",
         "projectName": "algocs_automata",
-        "projectPath": "C:\\Users\\Maxim\\Desktop\\C#\\calculator\\algocs_automata.csproj",
+        "projectPath": "C:\\Users\\Maxim\\Desktop\\MMPL\\calculator\\algocs_automata.csproj",
         "packagesPath": "C:\\Users\\Maxim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maxim\\Desktop\\C#\\calculator\\obj\\",
+        "outputPath": "C:\\Users\\Maxim\\Desktop\\MMPL\\calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Maxim\\AppData\\Roaming\\NuGet\\NuGet.Config"
