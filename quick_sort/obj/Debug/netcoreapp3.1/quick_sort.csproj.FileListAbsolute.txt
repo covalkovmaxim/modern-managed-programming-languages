@@ -11,3 +11,16 @@ C:\Users\Maxim\Desktop\C#\quick_sort\obj\Debug\netcoreapp3.1\quick_sort.csproj.C
 C:\Users\Maxim\Desktop\C#\quick_sort\obj\Debug\netcoreapp3.1\quick_sort.dll
 C:\Users\Maxim\Desktop\C#\quick_sort\obj\Debug\netcoreapp3.1\quick_sort.pdb
 C:\Users\Maxim\Desktop\C#\quick_sort\obj\Debug\netcoreapp3.1\quick_sort.genruntimeconfig.cache
+C:\Users\Maxim\Desktop\MMPL\quick_sort\bin\Debug\netcoreapp3.1\quick_sort.exe
+C:\Users\Maxim\Desktop\MMPL\quick_sort\bin\Debug\netcoreapp3.1\quick_sort.deps.json
+C:\Users\Maxim\Desktop\MMPL\quick_sort\bin\Debug\netcoreapp3.1\quick_sort.runtimeconfig.json
+C:\Users\Maxim\Desktop\MMPL\quick_sort\bin\Debug\netcoreapp3.1\quick_sort.runtimeconfig.dev.json
+C:\Users\Maxim\Desktop\MMPL\quick_sort\bin\Debug\netcoreapp3.1\quick_sort.dll
+C:\Users\Maxim\Desktop\MMPL\quick_sort\bin\Debug\netcoreapp3.1\quick_sort.pdb
+C:\Users\Maxim\Desktop\MMPL\quick_sort\obj\Debug\netcoreapp3.1\quick_sort.csprojAssemblyReference.cache
+C:\Users\Maxim\Desktop\MMPL\quick_sort\obj\Debug\netcoreapp3.1\quick_sort.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\MMPL\quick_sort\obj\Debug\netcoreapp3.1\quick_sort.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\MMPL\quick_sort\obj\Debug\netcoreapp3.1\quick_sort.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\MMPL\quick_sort\obj\Debug\netcoreapp3.1\quick_sort.dll
+C:\Users\Maxim\Desktop\MMPL\quick_sort\obj\Debug\netcoreapp3.1\quick_sort.pdb
+C:\Users\Maxim\Desktop\MMPL\quick_sort\obj\Debug\netcoreapp3.1\quick_sort.genruntimeconfig.cache

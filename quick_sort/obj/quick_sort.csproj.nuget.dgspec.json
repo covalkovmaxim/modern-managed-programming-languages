@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maxim\\Desktop\\C#\\quick_sort\\quick_sort.csproj": {}
+    "C:\\Users\\Maxim\\Desktop\\MMPL\\quick_sort\\quick_sort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maxim\\Desktop\\C#\\quick_sort\\quick_sort.csproj": {
+    "C:\\Users\\Maxim\\Desktop\\MMPL\\quick_sort\\quick_sort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maxim\\Desktop\\C#\\quick_sort\\quick_sort.csproj",
+        "projectUniqueName": "C:\\Users\\Maxim\\Desktop\\MMPL\\quick_sort\\quick_sort.csproj",
         "projectName": "quick_sort",
-        "projectPath": "C:\\Users\\Maxim\\Desktop\\C#\\quick_sort\\quick_sort.csproj",
+        "projectPath": "C:\\Users\\Maxim\\Desktop\\MMPL\\quick_sort\\quick_sort.csproj",
         "packagesPath": "C:\\Users\\Maxim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maxim\\Desktop\\C#\\quick_sort\\obj\\",
+        "outputPath": "C:\\Users\\Maxim\\Desktop\\MMPL\\quick_sort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Maxim\\AppData\\Roaming\\NuGet\\NuGet.Config"
