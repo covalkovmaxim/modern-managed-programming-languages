@@ -1,8 +1,8 @@
 ***SECCODE*** - код ценной бумаги
 
-***PRICEDIFFERENCE*** - изменение цены акции за день \\(LastPrice - FirstPrice \\)
+***PRICEDIFFERENCE*** - изменение цены акции за день $$LastPrice - FirstPrice $$
 
-***DIFFERENCEPERCENT*** - изменение цены акции за день в процентах  \\(\frac{LastPrice - FirstPrice}{FirstPrice}\\)
+***DIFFERENCEPERCENT*** - изменение цены акции за день в процентах  $$\frac{LastPrice - FirstPrice}{FirstPrice}$$
 
 ***TOTALSUMVALUE*** -суммарная стоимость акций, проданных за этот день
 #### 10 Лучших акций:
